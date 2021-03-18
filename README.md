@@ -1,0 +1,1 @@
+# Launch-Box_Yaba_Sanshiro_Fullscreen_AutoHotKey_Script
