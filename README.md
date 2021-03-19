@@ -9,3 +9,5 @@ Within `LaunchBox` go to `Tools > Manage Emulators` and double click on your `Ya
 <p float="left">
   <img src="Images/screenshot.png" width="800" />
 </p>
+
+`note` for this to work the `start in fullscreen` option needs to be disabled. Located in `Yaba Sanshiro - File > Settings > Video`.
